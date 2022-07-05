@@ -1,1 +1,1 @@
-SELECT COUNT ( DISTINCT replacement_cost) FROM film;
+SELECT  DISTINCT replacement_cost FROM film;
